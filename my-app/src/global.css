@@ -1,0 +1,5 @@
+html, body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    height: 100%; /* Ensure full height */
+    margin: 0; /* Remove default margin */
+  }
